@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 69ee5412d6ccbbb438d2a639d2881d1c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fire_point: {instanceID: 0}
+  - bullet_water: {fileID: 2089253614669536646, guid: 38aa5070ed5a70740ab05a73797ee7b9,
+      type: 3}
+  - bullet_mask: {fileID: 5119117333867358681, guid: 8a811d28e30134048862b1efe97cb4d4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
